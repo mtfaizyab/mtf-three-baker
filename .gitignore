@@ -65,3 +65,6 @@ node_modules/
 # dotenv environment variables file
 .env
 dist
+.DS_Store
+**/.DS_Store
+package/baker_and_the_bridge/.DS_Store
