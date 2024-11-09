@@ -1,0 +1,8 @@
+Model Information:
+* title:	Cute Alien Character
+* source:	https://sketchfab.com/3d-models/cute-alien-character-42fe1c5cd5724fd6ad34c6fd56daf892
+* author:	Ndevisuals (https://sketchfab.com/Wade23)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
